@@ -1,3 +1,4 @@
+// this is a comment
 package training.taylor.timetracker.core;
 
 import static org.junit.Assert.*;
